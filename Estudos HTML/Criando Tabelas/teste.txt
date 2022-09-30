@@ -1,0 +1,21 @@
+                Sol
+                85
+            </
+              Júpter
+                0
+            </
+              Demais Planetas
+                0,
+            </
+              Cometas
+                0
+            </
+              Satélites e anéis
+                0,000 
+            </
+              Asteroides
+                0,000 
+            </
+              Meteoritos e poeira
+                0.000 000 1% 
+            </
