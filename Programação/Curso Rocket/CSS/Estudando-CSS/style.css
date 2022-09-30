@@ -1,0 +1,14 @@
+
+
+h1 {
+    color: blue;
+
+    font-family: 'Ranchers', cursive;
+}
+
+strong {
+    color: red;
+
+}
+
+@import 'https://fonts.googleapis.com/css2?family=Ranchers&display=swap'
