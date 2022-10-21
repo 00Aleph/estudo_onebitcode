@@ -1,0 +1,15 @@
+p {
+    font-family: monospace;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: line-through;
+    font-family: "Noto Serif Gujarati";
+    margin: 14px 0px 200px;
+    width: 15%;
+    border: 2px solid;
+    padding: 10px 20px 200px;
+}
