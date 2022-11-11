@@ -1,6 +1,6 @@
 # valores e unidades de medida
 
-* cada a propriedade possui valores `property: value``
+* cada propriedade possui valores `property: value``
 * estudo constatante a fim de entender as propriedades e seus valores 
 
 ## Prática 
