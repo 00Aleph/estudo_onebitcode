@@ -1,0 +1,10 @@
+.btn {
+    width: 150px;
+    height: 50px;
+    background: none;
+    border-radius: 20px;
+}
+
+.btn-roxo {
+    @extend .btn background-color: purple;
+}
