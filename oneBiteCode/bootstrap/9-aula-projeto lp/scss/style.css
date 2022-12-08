@@ -1,0 +1,39 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url(./../../images/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: rgb(255, 255, 255);
+}
+
+.container1 {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 450px;
+  height: auto;
+}
+
+.topLogo {
+  width: 185px;
+}
+
+.paragraph {
+  margin: 8px 0px;
+}
+
+.btnSend {
+  color: #ff0043;
+  border: 1px solid #ff0043;
+}
+.btnSend:houver {
+  background-color: #ff0043;
+  color: white;
+}
+.btnSend .fotter {
+  margin-top: 30 px;
+  margin-bottom: -30px;
+}/*# sourceMappingURL=style.css.map */
