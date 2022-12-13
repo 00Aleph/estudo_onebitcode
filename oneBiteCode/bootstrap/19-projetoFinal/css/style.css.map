@@ -1,1 +1,7 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"style.css"}
+{
+"version": 3,
+"mappings": "AAEQ,uFAA+E;ACGvF,CAAE;EACA,KAAK,EAAC,KAAK",
+"sources": ["../sass/style.scss","../sass/commumElements/variables.scss"],
+"names": [],
+"file": "style.css"
+}
