@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAEQ,uFAA+E;ACGvF,CAAE;EACA,KAAK,EAAC,KAAK",
-"sources": ["../sass/style.scss","../sass/commumElements/variables.scss"],
+"mappings": "AAEQ,uFAA+E;ACGvF,CAAE;EACA,KAAK,EAAC,KAAK;;ACNb,OAAO;EACL,SAAS,EAAE,EAAE;EACb,WAAW,EAAE,IAAI;;AAInB,YAAa;EACb,MAAM,EAAE,KAAK;EACb,eAAe,EAAE,KAAK;EACtB,UAAU,EAAE,SAAS;EACrB,mBAAmB,EAAE,MAAM;;AAG3B,UAAW;EACT,OAAO,EAAE,YAAY;EACrB,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,GAAG;;AAEjB,OAAO;EACP,KAAK,EAAE,KAAK;EACZ,WAAW,EAAE,KAAK;EAClB,YAAY,EAAE,IAAI;;ACpBhB,wBAAa;EACX,gBAAgB,EAAE,6BAA6B;;AAKjD,wBAAa;EACX,gBAAgB,EAAE,6BAA6B;;AAKjD,wBAAa;EACX,gBAAgB,EAAE,6BAA6B;;AAKjD,wBAAa;EACX,gBAAgB,EAAE,6BAA6B",
+"sources": ["../sass/style.scss","../sass/commumElements/variables.scss","../sass/commumElements/communElements.scss","../sass/pages/home.scss"],
 "names": [],
 "file": "style.css"
 }
