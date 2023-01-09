@@ -1,24 +1,27 @@
-//Sentença de código passos necessários para completar o algoritimo.
+let idade = 31
+
+console.log(typeof 31)
+console.log(typeof idade)
+
+let salario = 4578.32 // tipo number
+console.log(typeof salario)
+
+let estaChovendo = true // ou false
+console.log(typeof estaChovendo) // bolean
+
+console.log(typeof 'Teste'); //string
 
 
-let preco = 19.90
-let desconto = 0.4
 
-console.log(19.9 * 0.6)
 
-let precoComDesonto = preco * (1 - desconto)
-console.log(precoComDesonto)
-
-let nome = 'Caderno'// String(texto) -> sequencia de simbolos
-let categoria = 'papelaria'
-console.log('produto: ' + nome
-  + ', Categoria: ' + categoria
-  + ', Preço; ' + preco
-  + ', Desconto: ' + desconto
-
-)
 
 /* 
+ -------------o básico em Js----------------------------------------
+ https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+ -------------------let---------------------------------------- 
+let permite que você declare variáveis limitando seu escopo no bloco, instrução, ou em uma expressão na qual ela é usada. Isso é inverso da keyword var (en-US), que define uma variável globalmente ou no escopo inteiro de uma função, independentemente do escopo de bloco.
+
 
 ------------------------------ Algoritimo -----------------------------
 são passos  para resolver um problema. Em matemática e ciência da computação, um algoritmo é uma 
@@ -29,6 +32,7 @@ e corretos.".
 ------------------------------ variavel -----------------------------
 cria um espaço de memoria no qual voce pode atribuir um valor "var" define que 
 estamos colocando uma váriavel, o que vem depois do = é o identificador da variavel var ou let (definidor de variavel) nome (identificador) = 'caneta'; //string
+Variables são contêineres que armazenam valores. Você começa declarando uma variável com a palavra-chave let, seguida do nome que você dá à variável:
 
 --------------------- O que é um código de programação?-----------------------------
 Resultado de imagem Resumindo, é o conjunto de instruções e declarações escritas por um programador usando uma linguagem de programação de computad
@@ -64,9 +68,10 @@ Enquanto os dados podem ser meros números, fatos não processados, a INFORMAÇA
 ---------------Tipos de dados-----------------------------------
 https://www.dimap.ufrn.br/~richard/pubs/dim0320/readings/aula03.pdf
 
-TIPOS NUMERICOS
+TIPOS NUMERICOS ( o Js não faz diferença entre numeros inteiros e reais Ex: 23343.33 ou 23343.33)
 Inteiro: 
 define variáveis numéricas do tipo inteiro, ou seja, sem casas decimais. ex: 1234567890
+no Js sempre vai ser do tipo number
 
 Real: 
 define variáveis numéricas do tipo real, ou seja, com casas decimais: Ex: -40.9; 9.2
@@ -86,5 +91,14 @@ define variáveis do tipo booleano, ou seja, com valor VERDADEIRO ou FALSO. pode
 Ex:console.log('produto: ' + nome + ', ' + categoria)
 
 
------------------------------
+----------------------------- console.log(typeof )----------------------
+serve para ver o tipo da variavel 
+
+----------- Comentários ----------------
+Comentários são trechos de texto que podem ser adicionados junto com o código. O navegador ignora o texto marcado como comentários. Você pode escrever comentários em JavaScript da mesma forma que em CSS:
+
+------------------------------------ Um operator ----------------------------------
+https://developer.mozilla.org/pt-BR/docs/Glossary/Operator
+é um símbolo matemático que produz um resultado baseado em dois valores (ou variáveis). Na tabela a seguir, você pode ver alguns dos operadores mais simples, juntamente com alguns exemplos para experimentar no console JavaScript.
+
 */
