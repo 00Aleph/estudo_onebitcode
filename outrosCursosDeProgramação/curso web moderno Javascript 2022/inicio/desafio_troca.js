@@ -1,22 +1,19 @@
-//Sentença de código passos necessários para completar o algoritimo.
+let a = 7
+let b = 94
+
+// depois da troca a = 94 e b = 7
+let temp = a
+
+// a = b
+// b = temp
+
+// a = 94
+// b = 7
 
 
-let preco = 19.90
-let desconto = 0.4
 
-console.log(19.9 * 0.6)
-
-let precoComDesonto = preco * (1 - desconto)
-console.log(precoComDesonto)
-
-let nome = 'Caderno'// String(texto) -> sequencia de simbolos
-let categoria = 'papelaria'
-console.log('produto: ' + nome
-  + ', Categoria: ' + categoria
-  + ', Preço; ' + preco
-  + ', Desconto: ' + desconto
-
-)
+console.log(a)
+console.log(b)
 
 /* 
  -------------o básico em Js----------------------------------------

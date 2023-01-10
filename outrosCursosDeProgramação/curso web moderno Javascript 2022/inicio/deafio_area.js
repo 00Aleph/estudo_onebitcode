@@ -1,22 +1,15 @@
-//Sentença de código passos necessários para completar o algoritimo.
+//PI 3.141592
+//PI * raio * raio 
+
+const PI = 3.141592;
+const raio = 10;
+let areaCirc = PI * raio * raio;
+console.log("o valor da area é " + areaCirc + ' m2');
+console.log(Math.PI)
 
 
-let preco = 19.90
-let desconto = 0.4
 
-console.log(19.9 * 0.6)
 
-let precoComDesonto = preco * (1 - desconto)
-console.log(precoComDesonto)
-
-let nome = 'Caderno'// String(texto) -> sequencia de simbolos
-let categoria = 'papelaria'
-console.log('produto: ' + nome
-  + ', Categoria: ' + categoria
-  + ', Preço; ' + preco
-  + ', Desconto: ' + desconto
-
-)
 
 /* 
  -------------o básico em Js----------------------------------------

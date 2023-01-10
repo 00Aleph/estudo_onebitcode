@@ -24,10 +24,28 @@ let permite que você declare variáveis limitando seu escopo no bloco, instruç
 
 
 ------------------------------ Algoritimo -----------------------------
-são passos  para resolver um problema. Em matemática e ciência da computação, um algoritmo é uma 
-sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema. Segundo 
-Dasgupta, Papadimitriou e Vazirani; "Algoritmos são procedimentos precisos, não ambíguos, padronizados, eficientes 
-e corretos.".
+são sequências de passos  para resolver um problema. Em matemática e ciência da computação, um algoritmo é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema. Segundo Dasgupta, Papadimitriou e Vazirani; "Algoritmos são procedimentos precisos, não ambíguos, padronizados, eficientes e corretos.". Ajuda a tomar decisões, 
+tem passos, algoritimo não é software, existem algoritimos de passos na vida real.
+
+Podem ser representados por:
+https://embarcados.com.br/representacao-de-algoritmos/
+*fluxograma
+*linguagem natural (portugês, Inglês, etc) liguagem passivel de duplicidade.
+*Linguagem artificial (java, Js, Pyton) mais exata.
+*pseudo-linguagem usa elementos artificiais e naturais (não interpretada pelo computador)
+
+----------------------Algoritimo VS Linguagem ---------
+Liguagens de alto nivel (javaScript mais perto da linguagem humana) X Linguagens de baixo nível (mais proximas do hardware, 0100100100101010)
+
+-----------------Algoritimo Visão Geral-----------
+Dados                            Processamento
+entrada.1             (algoritimo comportamentos,comandos
+entrada.2               verbo, ação).                         ---> Saída 
+entrada.3
+
+Leite                        bater o leite 
+Fermento                      por fermento                      -----> bolo
+açucar                       colocar a gosto
 
 ------------------------------ variavel -----------------------------
 cria um espaço de memoria no qual voce pode atribuir um valor "var" define que 
@@ -64,7 +82,15 @@ ex: {
 é tudo que pode ser mensurado, coletado e analisado. Em informática consideramos DADOS como valores binários que podem ser números, cadeias de caracteres ou imagens sem interpretação. Estes dados foram obtidos da realidade através de algum processo de captura automática ou de codificação realizada por pessoas.
 
 Enquanto os dados podem ser meros números, fatos não processados, a INFORMAÇAO é o que dá sentido ao que foi analisado. Os dados não são específicos, ao contrário da informação, que é um significado detalhado a partir do trabalho com elementos mais brutos.
-
+------------------Estruturas de Dados--------------------------
+Diferente de dados, estrutura de dados visa organizar, dar estruturas, colocar e analizar as regras e administrar os dados.
+ex: estrutura fila (fifo primmeiro a entrar é o primeiro a sair) estrutura pilha de coisas(Lifo o ultimo a entrar [é o primeiro a sair) estrutura àrvore, estruturas básicas: inteiros, reais, letras, booleanos.
+Podem ser armazenaods em Variaveis e Constantes: Ex valor de PI que não muda.
+atribuir um dado a uma variavel e vai fazer operações com elas:
+operações: Logicas (esperar que as condições sejam feitas)
+relacionais: comparar uma coisa com outra
+aritimeticas: somar 
+criar estruturas personalizadas: ex mapeamentos personalidado.
 ---------------Tipos de dados-----------------------------------
 https://www.dimap.ufrn.br/~richard/pubs/dim0320/readings/aula03.pdf
 
