@@ -1,16 +1,21 @@
-console.log("Sentença de código")
+let qualquer = 'legal'
+console.log(qualquer)
+console.log(typeof qualquer)
 
-{
-  {
-    console.log('olá')
-    console.log('mundo !') //Padrão do curso
-  }
-}
+
+
+
+
+
 
 /*
  -------------o básico em Js----------------------------------------
  https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
+------Palavras reservadas------
+Let
+Const
+var
  -------------------let---------------------------------------- 
 let permite que você declare variáveis limitando seu escopo no bloco, instrução, ou em uma expressão na qual ela é usada. Isso é inverso da keyword var (en-US), que define uma variável globalmente ou no escopo inteiro de uma função, independentemente do escopo de bloco.
 
@@ -38,9 +43,17 @@ entrada.3
 Leite                        bater o leite 
 Fermento                      por fermento                      -----> bolo
 açucar                       colocar a gosto
+-------------------------------------------------------
+// var,let,const - declarador de variavel palavra reservada
+// a       - identificador
+// =       - simbolo de atribuição
+// 3       - valor que se quer atribuir
+// var a recebe o valor 3
 
 ------------------------------ variavel -----------------------------
-cria um espaço de memoria no qual voce pode atribuir um valor "var" define que estamos colocando uma váriavel, o que vem depois do = é o identificador da variavel var ou let (definidor de variavel) nome (identificador) = 'caneta'; //string Variables são contêineres que armazenam valores. Você começa declarando uma variável com a palavra-chave let, seguida do nome que você dá à variável:
+cria um espaço de memoria no qual voce pode atribuir um valor "var" define que 
+estamos colocando uma váriavel, o que vem depois do = é o identificador da variavel var ou let (definidor de variavel) nome (identificador) = 'caneta'; //string
+Variables são contêineres que armazenam valores. Você começa declarando uma variável com a palavra-chave let, seguida do nome que você dá à variável:
 
 --------------------- O que é um código de programação?-----------------------------
 Resultado de imagem Resumindo, é o conjunto de instruções e declarações escritas por um programador usando uma linguagem de programação de computad
